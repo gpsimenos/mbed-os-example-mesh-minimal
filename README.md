@@ -1,3 +1,4 @@
+-e \![](./resources/official_armmbed_example_badge.png)
 # Example mesh application for Mbed OS
 
 With this application, you can use the [mesh networking API](https://os.mbed.com/docs/latest/apis/mesh-api.html) that [Mbed OS](https://github.com/ARMmbed/mbed-os) provides.
@@ -233,4 +234,3 @@ If you have problems, you can review the [documentation](https://os.mbed.com/doc
 The software is provided under Apache-2.0 license. Contributions to this project are accepted under the same license. Please see [contributing.md](CONTRIBUTING.md) for more info.
 
 This project contains code from other projects. The original license text is included in those source files. They must comply with our license guide.
-
